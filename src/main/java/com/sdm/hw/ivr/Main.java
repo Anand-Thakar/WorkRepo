@@ -14,5 +14,9 @@ public class Main {
                 .append("\n").toString();
 
         System.out.println(s);
+        System.out.println(s);
+
+
+
     }
 }
