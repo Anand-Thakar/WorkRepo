@@ -14,6 +14,6 @@ public class Main {
                 .append("\n").toString();
 
         System.out.println("hello world added again");
-        System.out.println("hello world added again");
+
     }
 }
