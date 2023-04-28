@@ -13,6 +13,6 @@ public class Main {
                 .append(StringUtils.rightPad(" ", 4))
                 .append("\n").toString();
 
-        System.out.println("line added no commit");
+        System.out.println(s);
     }
 }
